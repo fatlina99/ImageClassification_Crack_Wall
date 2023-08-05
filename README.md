@@ -28,7 +28,6 @@ your test data.
 
 
 # Conclusion
-![image](https://github.com/fatlina99/ImageClassification_Crack_Wall/assets/141213373/13c48223-6003-47aa-878d-dd1b4c966712)
 
 It can be observed that the model is performing well, with both the training and validation accuracies consistently increasing over the epochs. However, it seems that there might be slight overfitting as the validation accuracy slightly decreases in the last epoch compared to the previous ones.
 
